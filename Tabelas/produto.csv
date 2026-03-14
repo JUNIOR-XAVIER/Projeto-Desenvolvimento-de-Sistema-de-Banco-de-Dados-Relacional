@@ -1,0 +1,51 @@
+"idproduto";"preco_unitario";"nome_produto";"estoque_idproduto";"categoria_idcategoria"
+1;5.99;"Banana Nanica (Kg)";1;1
+2;3.5;"Alface Crespa (Unidade)";2;1
+3;7.89;"Batata Inglesa (Kg)";3;1
+4;6.2;"Tomate Salada (Kg)";4;1
+5;9.99;"Maçã Fuji (Kg)";5;1
+6;4.59;"Leite Integral 1L";6;2
+7;38.9;"Queijo Muçarela (Kg)";7;2
+8;2.99;"Iogurte Natural 170g";8;2
+9;12.5;"Manteiga com Sal 200g";9;2
+10;25.9;"Presunto Cozido (Kg)";10;2
+11;29.9;"Acém Bovino (Kg)";11;3
+12;18.9;"Peito de Frango (Kg)";12;3
+13;22.5;"Linguiça Calabresa Defumada (Kg)";13;3
+14;35.9;"Filé de Tilápia Congelado 500g";14;3
+15;10.9;"Ovo Branco Grande (Dúzia)";15;3
+16;24.99;"Arroz Agulhinha 5kg";16;4
+17;8.5;"Feijão Carioca 1kg";17;4
+18;4.2;"Açúcar Refinado 1kg";18;4
+19;6.99;"Óleo de Soja 900ml";19;4
+20;3.75;"Macarrão Espaguete 500g";20;4
+21;8.99;"Refrigerante Cola 2L";21;5
+22;3.49;"Cerveja Pilsen Lata 350ml";22;5
+23;9.5;"Suco de Laranja Integral 1L";23;5
+24;2.5;"Água Mineral sem Gás 1,5L";24;5
+25;14.9;"Café Torrado e Moído 500g";25;5
+26;19.9;"Pão de Queijo Congelado 1kg";26;6
+27;28.5;"Pizza Muçarela Congelada";27;6
+28;12.99;"Batata Palito Congelada 400g";28;6
+29;18.9;"Sorvete de Chocolate 1L";29;6
+30;21.5;"Lasanha Bolonhesa Congelada 600g";30;6
+31;15.9;"Shampoo Anti-resíduos 300ml";31;7
+32;5.99;"Sabonete em Barra Pack 3x90g";32;7
+33;4.5;"Creme Dental 90g";33;7
+34;22.9;"Papel Higiênico Folha Dupla 12 Rolos";34;7
+35;16.5;"Desodorante Aerossol Feminino";35;7
+36;2.8;"Detergente Líquido 500ml";36;8
+37;4.9;"Água Sanitária 1L";37;8
+38;7.99;"Desinfetante Perfumado 500ml";38;8
+39;13.5;"Amaciante Concentrado 500ml";39;8
+40;18.9;"Sabão em Pó Lavagem Perfeita 1kg";40;8
+41;0.8;"Pão Francês (Unidade)";41;9
+42;15.0;"Bolo de Fubá Caseiro (Unidade)";42;9
+43;8.9;"Pão de Forma Tradicional";43;9
+44;10.9;"Pão Integral 12 Grãos";44;9
+45;3.9;"Broa de Milho (Unidade)";45;9
+46;6.5;"Barra de Chocolate ao Leite 90g";46;10
+47;11.9;"Pacote de Balas Sortidas 500g";47;10
+48;3.2;"Biscoito Recheado Chocolate";48;10
+49;0.5;"Chiclete Bola Tutti Frutti";49;10
+50;14.0;"Doce de Leite Pote 400g";50;10
